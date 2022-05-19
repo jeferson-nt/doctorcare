@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/jeferson-nt/bikcraft/blob/master/img/logotela1.png" alt="logo" height="280"/>
+  <img src="https://github.com/jeferson-nt/doctorcare/blob/main/assets/pic.png" alt="logo" height="280"/>
 </p>
 
 <h1 align="center">
