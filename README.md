@@ -40,7 +40,7 @@
 
 ###  💻 Projeto
 
-A aplicação consiste num projeto desenvolvido no Curso Rocketseat, no qual corresponde a uma pagina de serviçoes médicos.
+A aplicação consiste num Projeto desenvolvido no curso Rocketseat, no qual corresponde a uma página de serviçoes médicos.
 ###  ✅ Demonstração 
 <img src="https://github.com/jeferson-nt/doctorcare/blob/main/assets/img1.png"/>
 <img src="https://github.com/jeferson-nt/doctorcare/blob/main/assets/img2.png"/> 
